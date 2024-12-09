@@ -43,16 +43,16 @@ The project includes a Streamlit interface to interact with the data and models.
 ## Installation
 To set up the environment and install the required dependencies, follow these steps:
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/amruthak03/yield-optimization-through-predictive-modeling.git
-  ```
+   ```bash
+   git clone https://github.com/amruthak03/yield-optimization-through-predictive-modeling.git
+    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 3. Run the app:
    ```bash
-      streamlit run app.py
+   streamlit run app.py
    ```
 
 ## Usage
